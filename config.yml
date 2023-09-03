@@ -23,6 +23,8 @@ params:
   homeInfoParams:
     Title: "Hi, I'm Yiyang"
     Content: Welcome to my blog. Still a work in progress :) 
+  logo:
+    - path: "/static/images/logo.png"
   socialIcons:
     - name: github
       url: "https://github.com/yiyangjessieyu"
