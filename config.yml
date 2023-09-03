@@ -1,22 +1,8 @@
----
 baseURL: ""
 languageCode: en-us
-title: Demo for Hugo
+title: Yiyang Yu
 theme: PaperMod
----
 
-params:
-  homeInfoParams:
-    Title: "Hello Stranger"
-    Content: Welcome to my blog. Here you'll find a lot of cool information about a lot of cool stuff.
-  socialIcons:
-    - name: facebook
-      url: "https://facebook.com/"
-    - name: twitter
-      url: "https://twitter.com/"
-    - name: github
-      url: "https://github.com/"
-      
 menu:
   main:
     - identifier: categories
@@ -31,3 +17,25 @@ menu:
       name: Archives
       url: /archives/
       weight: 30
+
+
+params:
+  homeInfoParams:
+    Title: "Hi, I'm Yiyang"
+    Content: Welcome to my blog. Still a work in progress :) 
+  socialIcons:
+    - name: github
+      url: "https://github.com/yiyangjessieyu"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/yiyangjessieyu/"
+
+  cover:
+    linkFullImages: true
+
+  ShowBreadCrumbs: true
+
+  ShowReadingTime: true
+
+  # ShowShareButtons: true
+
+  ShowPostNavLinks: true
