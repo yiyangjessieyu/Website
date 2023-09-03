@@ -16,7 +16,7 @@ Resources:
 
 ## Notes
 
-An intro to machine learning and statistical pattern recognition. Talked about both supervised and unsupervised learning as well as learning theory, reinforcement learning and control. Explored recent applications of machine learning and design and develop algorithms for machines.
+An intro to machine learning and statistical pattern recognition. Talked about both supervised and unsupervised learning as well as learning theory, reinforcement learning and control. 
 
 Example at [45.50](https://youtu.be/jGwO_UgTS7I?t=2750) was a nice way to illustrate dimensionality, explain how higher multi-dimensional problems become difficult to graph, and hence introduce the motivation behind Support Vector Machines (SVM) - which help overcome this challenge. 
 
@@ -27,6 +27,10 @@ All CS229 Lecture Notes [here](https://github.com/yiyangjessieyu/Machine-Learnin
 ### Definitions
 
 Supervised learning: Learning to map an input x to an appropriate output y. Eg. Learning to map a video footage of the road in front of the car with the appropriate driving choices. 
+
+Unsupervised learning: Learning patterns exclusively from unlabeled data, so given input x only. 
+
+Reinforcement learning: Learning to optimize rewards.
 
 Regression: Continuous.
 
