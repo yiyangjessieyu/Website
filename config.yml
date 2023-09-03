@@ -22,7 +22,7 @@ menu:
 params:
   homeInfoParams:
     Title: "Hi, I'm Yiyang"
-    Content: Welcome to my blog. Still a work in progress :) Aiming for a place where I can collate all my favourite learnings to share with others. 
+    Content: Welcome to my blog. Currently under construction :) Aiming for a place where I can collate all my favourite learnings to share with others. 
   logo:
     - path: "/static/images/logo.png"
   socialIcons:
