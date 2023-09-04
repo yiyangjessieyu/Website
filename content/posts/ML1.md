@@ -6,32 +6,32 @@ tags: ["course", "machine learning"]
 categories: ["tech"]
 ---
 
-Thank you [Andrew Ng](https://www.andrewng.org/) for the [lecture](https://www.youtube.com/watch?v=jGwO_UgTS7I).
+Thank you, [Andrew Ng](https://www.andrewng.org/), for the inspiring [lecture](https://www.youtube.com/watch?v=jGwO_UgTS7I)!
 
-Resources:
-- [Program info](https://learn.stanford.edu/Social-AI-YouTube.html?utm_source=YouTube&utm_medium=Social&utm_campaign=cs229_lec1_2018),
-- [Syllabus](http://cs229.stanford.edu/syllabus-autumn2018.html),
-- [Enrol online](https://www.coursera.org/specializations/machine-learning-introduction?action=enroll).
+### Resources:
 
+- [Program Information](https://learn.stanford.edu/Social-AI-YouTube.html?utm_source=YouTube&utm_medium=Social&utm_campaign=cs229_lec1_2018)
+- [Syllabus](http://cs229.stanford.edu/syllabus-autumn2018.html)
+- [Enroll Online](https://www.coursera.org/specializations/machine-learning-introduction?action=enroll)
 
-## Notes
+### Key Takeaways
 
-An intro to machine learning and statistical pattern recognition. Talked about both supervised and unsupervised learning as well as learning theory, reinforcement learning and control. 
+This lecture provided an excellent introduction to machine learning and statistical pattern recognition. Andrew covered various aspects, including supervised and unsupervised learning, learning theory, reinforcement learning, and control.
 
-Example at [45.50](https://youtu.be/jGwO_UgTS7I?t=2750) was a nice way to illustrate dimensionality, explain how higher multi-dimensional problems become difficult to graph, and hence introduce the motivation behind Support Vector Machines (SVM) - which help overcome this challenge. 
+One highlight was the example at [45:50](https://youtu.be/jGwO_UgTS7I?t=2750), which effectively illustrated the challenge of dimensionality in multi-dimensional problems and introduced the motivation behind Support Vector Machines (SVM) as a solution.
 
-First time seeing how autonomous driving vechnical work behind the scenes at [52:54](https://youtu.be/jGwO_UgTS7I?t=3174) - how the model is matching what it is seeing with the car's front camera with the steering choices made by the human, and eventually learn to make those matches itself. So given video footage, able to learn what steering choice to make. 
+Another intriguing insight came at [52:54](https://youtu.be/jGwO_UgTS7I?t=3174) when Andrew delved into the workings of autonomous driving technology. He explained how models match what they see through the car's front camera with the steering choices made by humans and eventually learn to make those decisions independently. It's a fascinating application of machine learning.
 
-All CS229 Lecture Notes [here](https://github.com/yiyangjessieyu/Machine-Learning/blob/main/lectures/main_notes.pdf)
+For comprehensive lecture notes on CS229, you can find them [here](https://github.com/yiyangjessieyu/Machine-Learning/blob/main/lectures/main_notes.pdf).
 
 ### Definitions
 
-Supervised learning: Learning to map an input x to an appropriate output y. Eg. Learning to map a video footage of the road in front of the car with the appropriate driving choices. 
+- **Supervised learning**: This involves learning to map an input `x` to an appropriate output `y`. For example, it's about learning to map video footage of the road in front of a car to the appropriate driving choices.
 
-Unsupervised learning: Learning patterns exclusively from unlabeled data, so given input x only. 
+- **Unsupervised learning**: Here, patterns are learned exclusively from unlabeled data, meaning you only have input `x` to work with.
 
-Reinforcement learning: Learning to optimize rewards.
+- **Reinforcement learning**: This type of learning focuses on optimizing rewards.
 
-Regression: Continuous.
+- **Regression**: Deals with continuous data.
 
-Classification: Categorical. 
+- **Classification**: Focuses on categorical data.

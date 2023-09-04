@@ -6,8 +6,9 @@ tags: ["machine learning", "ai ethics"]
 categories: ["tech"]
 ---
 
-This [talk](https://www.youtube.com/watch?v=5p248yoa3oE) covers:
-- Trends in AI Technologies and Tools
+In this [talk](https://www.youtube.com/watch?v=5p248yoa3oE), we'll explore several key aspects of AI:
+
+- Trends in AI Technologies and Tools**
 - Supervised Learning
 - Generative AI
 - The Adoption of AI
@@ -15,18 +16,19 @@ This [talk](https://www.youtube.com/watch?v=5p248yoa3oE) covers:
 - Process for Building Startups
 - AI Risks and Social Impact
 
-## Notes:
+### Key Takeaways
 
-Focus on what Andrew considers currently the 2 most important tools. 
-1. Supervised learning and 
-2. Generative AI 
+During the discussion, the focus was primarily on what Andrew considers to be the two most crucial tools in AI:
 
-Got introduced to defensible businesses. Peter Thiel says:
+1. Supervised Learning
+2. Generative AI
 
-*In the real world outside economic theory, every business is successful exactly to the extent that it does something others cannot.*
+One intriguing concept introduced was the idea of building defensible businesses, as famously articulated by Peter Thiel:
 
-Andrew hopes the growth of AI can lead to providing deep and long time value. 
+> "In the real world outside economic theory, every business is successful exactly to the extent that it does something others cannot."
 
-![Alt text](/static/images/AI1.png)
+Andrew expressed the hope that the continued growth of AI can lead to providing deep and lasting value.
 
-Seeing the majority of the problems on the tail (right) end of the graph needing more customisation efforts to solve reminds me of 80:20 rule. 
+![Alt text](image-1.png)
+
+A noteworthy observation was made regarding problem distribution, with the majority of AI applicability clustering on the left end of the graph. This situation reminds me of the 80:20 rule.
