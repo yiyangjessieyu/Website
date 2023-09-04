@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: https://yiyangyu.netlify.app
 languageCode: en-us
 title: Yiyang Yu
 theme: PaperMod
@@ -13,9 +13,9 @@ menu:
       name: Tags
       url: /tags/
       weight: 20
-    - identifier: archives
-      name: Archives
-      url: /archives/
+    - identifier: timeline
+      name: Timeline
+      url: /timeline/
       weight: 30
 
 
