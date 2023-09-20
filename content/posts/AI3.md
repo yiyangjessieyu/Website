@@ -12,6 +12,9 @@ In this article, we delve into the research paper titled ["Dislocated Accountabi
 
 In the complex landscape of AI development, striking a balance between modularity and ethical responsibility is crucial to ensure the responsible and sustainable advancement of technology in our society.
 
+![image](https://github.com/yiyangjessieyu/Website/assets/101782677/bbd6b103-3549-4a79-9c4e-d3d4827dd656)
+
+
 ### How do the authors understand "responsibility" and "accountability"?
 
 The authors conceptualize accountability as the "ability to critically analyze one's own social location" and the recognition of the impact of one's actions within the context of the AI supply chain. They were taken aback by the lack of accountability within the tech industry, where modularity often leads participants to perceive harm beyond their immediate scope of responsibility.
