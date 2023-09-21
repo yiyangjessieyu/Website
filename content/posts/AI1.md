@@ -33,7 +33,7 @@ Andrew expressed the hope that the continued growth of AI can lead to providing 
 
 A noteworthy observation was made regarding problem distribution, with the majority of AI applicability clustering on the left end of the graph, and higher effort for customization on the right (long tail) end. This situation reminds me of the 80:20 rule.
 
-![Alt text](/content/posts/image-1.png)
+![Alt text](/posts/image-1.png)
 
 ### Design Thinking
 
@@ -48,4 +48,4 @@ Concrete ideas:
 
 AI disruption to jobs. Current wage of automation exposes higher-wage jobs to AI automation.
 
-![Alt text](image.png)
+![Alt text](/posts/image-3.png)
