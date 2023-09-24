@@ -2,6 +2,16 @@ baseURL: https://yiyangyu.netlify.app
 languageCode: en-us
 title: Yiyang Yu
 theme: PaperMod
+paginate: 3
+# cover: 
+#   image: "static/images/logo.png"
+#   hidden: true # only hide on current single page
+
+# cover:
+#   hidden: true # hide everywhere but not in structured data
+#   hiddenInList: true # hide on list pages and home
+#   hiddenInSingle: true # hide on single page
+
 
 header:
   show_logo: true
@@ -24,10 +34,11 @@ menu:
 
 
 params:
+  author: Yiyang Jessie Yu
   ShowWordCount: true
   homeInfoParams:
     Title: "Hi, I'm Yiyang"
-    Content: Welcome to my blog. Currently under construction :) Aiming for a place where I can collate all my favourite learnings to share with others. 
+    Content: Welcome to my blog. Currently under construction :) Aiming for a place where I can collate all my favourite learnings to share with others or my future self. 
   logo:
     - path: "/static/images/logo.png"
   socialIcons:
@@ -43,6 +54,25 @@ params:
 
   ShowReadingTime: true
 
+  disableScrollToTop: false
+
   # ShowShareButtons: true
 
   ShowPostNavLinks: true
+
+  outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
+
+
+  params:
+    fuseOpts:
+        isCaseSensitive: false
+        shouldSort: true
+        location: 0
+        distance: 1000
+        threshold: 0.4
+        minMatchCharLength: 0
+        keys: ["title", "permalink", "summary", "content"]

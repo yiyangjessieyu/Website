@@ -4,6 +4,7 @@ date: 2023-09-03T17:58:26+12:00
 draft: false
 tags: ["machine learning", "ai ethics", "startup"]
 categories: ["tech"]
+searchHidden: false
 ---
 
 In this [talk](https://www.youtube.com/watch?v=5p248yoa3oE), we'll explore several key aspects of AI:

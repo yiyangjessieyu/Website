@@ -3,6 +3,11 @@
 
 How to manage PaperMod theme: https://github.com/adityatelange/hugo-PaperMod/wiki/Installation
 
+https://github.com/adityatelange/hugo-PaperMod/wiki/installation#sample-configyml
+https://github.com/adityatelange/hugo-PaperMod/wiki/Features#regular-mode-default-mode
+https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite
+
+
 More specifically...
 
 ## Method 1
