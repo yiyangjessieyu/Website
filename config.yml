@@ -2,7 +2,7 @@ baseURL: https://yiyangyu.netlify.app
 languageCode: en-us
 title: Yiyang Yu
 theme: PaperMod
-paginate: 3
+paginate: 5
 # cover: 
 #   image: "static/images/logo.png"
 #   hidden: true # only hide on current single page
@@ -34,7 +34,6 @@ menu:
 
 
 params:
-  author: Yiyang Jessie Yu
   ShowWordCount: true
   homeInfoParams:
     Title: "Hi, I'm Yiyang"
