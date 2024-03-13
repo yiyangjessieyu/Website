@@ -37,7 +37,7 @@ params:
   ShowWordCount: true
   homeInfoParams:
     Title: "Hi, I'm Yiyang"
-    Content: Welcome to my blog. Currently under construction :) Repo for my reflections. Aiming for a place where I can collate all my favourite learnings to share with others or my future self. 
+    Content: Welcome to my blog. Currently under construction :) Repo for my messy notes and reflection. Aiming for a place where I can collate all my favourite learnings to share with others or my future self. 
   logo:
     - path: "/static/images/logo.png"
   socialIcons:
