@@ -12,7 +12,7 @@ In this article, we explore the contents of the research paper titled ["Power an
 
 The article highlights a social approach aimed at increasing the diversity of the AI workforce. Specifically, it suggests that "more diverse academic disciplines should be involved, including philosophers, social scientists, legal theorists, and political scientists who can bring their long-standing expertise."
 
-Additionally, there is a need to build a more inclusive workplace culture so that women and minorities feel supported and included in the conversation.		Additionally, there is a need to foster a more inclusive workplace culture, ensuring that women and minorities feel supported and included in the conversation.
+Additionally, there is a need to build a more inclusive workplace culture so that women and minorities feel supported and included in the conversation.	
 
 ### Limitations to the Social Approach
 

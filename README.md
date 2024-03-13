@@ -35,3 +35,10 @@ Updating theme with Method 2 :
 ```
 git submodule update --remote --merge
 ```
+
+
+# Deploy
+
+```
+hugo server
+```
