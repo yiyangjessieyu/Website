@@ -41,4 +41,6 @@ git submodule update --remote --merge
 
 ```
 hugo server
+hugo
+netlify deploy --prod
 ```
