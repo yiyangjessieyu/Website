@@ -55,7 +55,7 @@ params:
   copyright: By Yiyang Yu
   showPowerBy: false
   author: Yiyang Yu
-  bio: Welcome to my blog. 
+  bio: 
   description: Currently under construction :) Repo for my messy notes and reflection. Aiming for a place where I can collate all my favourite learnings to share with others or my future self. 
   defaultTheme: auto # to switch between dark or light according to browser theme
   ShowWordCount: true
