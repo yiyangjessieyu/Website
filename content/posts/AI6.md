@@ -5,6 +5,11 @@ draft: false
 tags: ["ai", "support if stuck"]
 categories: ["tech"]
 ---
+
+News from February 2024 that caught my attention covers content ranging from leveraging symmetry to enhance model performance, ensuring stability in AI chatbots, and addressing security concerns with GenAI Security Testing, to the importance of high-quality human data.
+
+<!--more-->
+
 ### [How symmetry can come to the aid of machine learning](https://news.mit.edu/2024/how-symmetry-can-aid-machine-learning-0205)
 - "Weyl’s law, conceived about a century before the boom in machine learning, had traditionally been applied to very different physical situations — such as those concerning the vibrations of a string or the spectrum of electromagnetic (black-body) radiation given off by a heated object."
 - "Exploit a dataset’s intrinsic symmetries in order to reduce the complexity of machine learning tasks." Eg. Given an image detection algorithm, we don't need to fuss over an object's position in the image, "whether it’s exactly in the center or off to the side — and whether it is pointed right-side up, upside down, or oriented at a random angle. An algorithm equipped with the latter capability can take advantage of the symmetries of translation and rotations."

@@ -8,6 +8,9 @@ categories: ["tech"]
 
 In this article, we delve into the research paper titled ["Dislocated Accountabilities in the 'AI Supply Chain': Modularity and Developers' Notions of Responsibility"](http://journals.sagepub.com/doi/10.1177/20539517231177620).
 
+<!--more-->
+
+
 ### Key Takeaways
 
 In the complex landscape of AI development, striking a balance between modularity and ethical responsibility is crucial to ensure the responsible and sustainable advancement of technology in our society.

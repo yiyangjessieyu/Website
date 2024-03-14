@@ -6,6 +6,9 @@ tags: ["flutter"]
 categories: ["tech"]
 ---
 
+A collection of resources for developers starting with Flutter, covering fundamental concepts and practical implementations for app development.
+<!--more-->
+
 ### General 
 - [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
   - Creating layouts in Flutter

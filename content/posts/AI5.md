@@ -6,6 +6,10 @@ tags: ["machine learning", "support if stuck"]
 categories: ["tech"]
 ---
 
+This collection of resources delves into various challenges encountered during the development and optimization of machine learning models. Each section focuses on a specific issue commonly faced in practical applications and presents approaches to mitigate these challenges.
+
+<!--more-->
+
 ### Loss Function Converging to Multiple Local Minima
 
 [On Large-Batch Training For Deep Learning: Generalization Gap And Sharp Minima](https://arxiv.org/pdf/1609.04836.pdf)

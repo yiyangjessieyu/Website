@@ -3,7 +3,7 @@ languageCode: en-us
 title: Yiyang Yu
 #theme: PaperMod
 theme: mini
-paginate: 3
+paginate: 5
 # cover: 
 #   image: "static/images/logo.png"
 #   hidden: true # only hide on current single page

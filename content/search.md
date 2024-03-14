@@ -5,5 +5,6 @@ layout: "search" # necessary for search
 # description: "Description for Search"
 url: "/search/"
 summary: "search"
+draft: true
 placeholder: "Search..."
 ---

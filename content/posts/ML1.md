@@ -6,23 +6,22 @@ tags: ["course", "machine learning"]
 categories: ["tech"]
 ---
 
-Thank you, [Andrew Ng](https://www.andrewng.org/), for the inspiring [lecture](https://www.youtube.com/watch?v=jGwO_UgTS7I)!
+Thank you, [Andrew Ng](https://www.andrewng.org/), for the inspiring [lecture](https://www.youtube.com/watch?v=jGwO_UgTS7I)! This lecture provided an excellent introduction to machine learning and statistical pattern recognition. Andrew covered various aspects, including supervised and unsupervised learning, learning theory, reinforcement learning, and control.
+
+<!--more-->
 
 ### Resources:
 
-- [Program Information](https://learn.stanford.edu/Social-AI-YouTube.html?utm_source=YouTube&utm_medium=Social&utm_campaign=cs229_lec1_2018)
-- [Syllabus](http://cs229.stanford.edu/syllabus-autumn2018.html)
-- [Enroll Online](https://www.coursera.org/specializations/machine-learning-introduction?action=enroll)
+- [Program Information](https://learn.stanford.edu/Social-AI-YouTube.html?utm_source=YouTube&utm_medium=Social&utm_campaign=cs229_lec1_2018),
+- [Syllabus](http://cs229.stanford.edu/syllabus-autumn2018.html),
+- [Enroll Online](https://www.coursera.org/specializations/machine-learning-introduction?action=enroll),
+- For comprehensive lecture notes on CS229, you can find them [here](https://github.com/yiyangjessieyu/Machine-Learning/blob/main/lectures/main_notes.pdf).
 
 ### Key Takeaways
-
-This lecture provided an excellent introduction to machine learning and statistical pattern recognition. Andrew covered various aspects, including supervised and unsupervised learning, learning theory, reinforcement learning, and control.
 
 One highlight was the example at [45:50](https://youtu.be/jGwO_UgTS7I?t=2750), which effectively illustrated the challenge of dimensionality in multi-dimensional problems and introduced the motivation behind Support Vector Machines (SVM) as a solution.
 
 Another intriguing insight came at [52:54](https://youtu.be/jGwO_UgTS7I?t=3174) when Andrew delved into the workings of autonomous driving technology. He explained how models match what they see through the car's front camera with the steering choices made by humans and eventually learn to make those decisions independently. It's a fascinating application of machine learning.
-
-For comprehensive lecture notes on CS229, you can find them [here](https://github.com/yiyangjessieyu/Machine-Learning/blob/main/lectures/main_notes.pdf).
 
 ### Definitions
 

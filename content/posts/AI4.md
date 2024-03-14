@@ -8,6 +8,9 @@ categories: ["tech"]
 
 In this article, we explore the contents of the research paper titled ["Power and Politics in Framing Bias in Artificial Intelligence Policy"](https://onlinelibrary.wiley.com/doi/10.1111/ropr.12567).
 
+<!--more-->
+
+
 ### Approach to Mitigating the Harms of Bias That Appears Most Viable
 
 The article highlights a social approach aimed at increasing the diversity of the AI workforce. Specifically, it suggests that "more diverse academic disciplines should be involved, including philosophers, social scientists, legal theorists, and political scientists who can bring their long-standing expertise."

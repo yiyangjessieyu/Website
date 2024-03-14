@@ -9,13 +9,15 @@ searchHidden: false
 
 In this [talk](https://www.youtube.com/watch?v=5p248yoa3oE), we'll explore several key aspects of AI:
 
-- Trends in AI Technologies and Tools
-- Supervised Learning
-- Generative AI
-- The Adoption of AI
-- Opportunities in AI
-- Process for Building Startups
-- AI Risks and Social Impact
+- Trends in AI Technologies and Tools,
+- Supervised Learning,
+- Generative AI,
+- The Adoption of AI,
+- Opportunities in AI,
+- Process for Building Startups,
+- AI Risks and Social Impact.
+
+<!--more-->
 
 ### Key Takeaways
 

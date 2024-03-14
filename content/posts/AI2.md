@@ -8,6 +8,9 @@ categories: ["tech"]
 
 This post revolves around the topics discussed in the research article: [To Each Technology Its Own Ethics: The Problem of Ethical Proliferation](https://doi.org/10.1007/s13347-022-00591-7).
 
+<!--more-->
+
+
 
 ### Claim: There is no need to create multiple ethics as it's inefficient in ethical inquiry.
 
