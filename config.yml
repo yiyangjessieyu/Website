@@ -1,8 +1,9 @@
 baseURL: https://yiyangyu.netlify.app
 languageCode: en-us
 title: Yiyang Yu
-theme: PaperMod
-paginate: 5
+#theme: PaperMod
+theme: mini
+paginate: 3
 # cover: 
 #   image: "static/images/logo.png"
 #   hidden: true # only hide on current single page
@@ -12,6 +13,22 @@ paginate: 5
 #   hiddenInList: true # hide on list pages and home
 #   hiddenInSingle: true # hide on single page
 
+
+markup:
+  highlight:
+    guessSyntax: true
+    style: emacs
+
+# Hugo Configure Markup
+# More info: https://gohugo.io/getting-started/configuration-markup# TODO
+  # tableOfContents:
+  #   endLevel: 3
+  #   ordered: false
+  #   startLevel: 2
+  # # needed to render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
+  # goldmark:
+  #   renderer:
+  #     unsafe: true
 
 header:
   show_logo: true
@@ -34,6 +51,13 @@ menu:
 
 
 params:
+  hiddenPostSummaryInHomePage: false
+  copyright: By Yiyang Yu
+  showPowerBy: false
+  author: Yiyang Yu
+  bio: Welcome to my blog. 
+  description: Currently under construction :) Repo for my messy notes and reflection. Aiming for a place where I can collate all my favourite learnings to share with others or my future self. 
+  defaultTheme: auto # to switch between dark or light according to browser theme
   ShowWordCount: true
   homeInfoParams:
     Title: "Hi, I'm Yiyang"
@@ -54,7 +78,7 @@ params:
     minMatchCharLength: 0
     # limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
     keys: ["title", "permalink", "summary", "content"]
-    
+
   cover:
     linkFullImages: true
 
@@ -73,14 +97,3 @@ params:
     - HTML
     - RSS
     - JSON # necessary for search
-
-
-  params:
-    fuseOpts:
-        isCaseSensitive: false
-        shouldSort: true
-        location: 0
-        distance: 1000
-        threshold: 0.4
-        minMatchCharLength: 0
-        keys: ["title", "permalink", "summary", "content"]
