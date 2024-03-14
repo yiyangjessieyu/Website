@@ -2,7 +2,7 @@
 title: "February '24 News"
 date: 2024-02-24T16:50:26+12:00
 draft: false
-tags: ["ai"]
+tags: ["ai", "support if stuck"]
 categories: ["tech"]
 ---
 ### [How symmetry can come to the aid of machine learning](https://news.mit.edu/2024/how-symmetry-can-aid-machine-learning-0205)
