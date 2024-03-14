@@ -1,7 +1,7 @@
 ---
 title: "Methods for Building Models"
 date: 2024-03-13T16:51:26+12:00
-draft: true
+draft: false
 tags: ["ai", "support if stuck"]
 categories: ["tech"]
 ---
