@@ -10,12 +10,12 @@ News from February 2024 that caught my attention covers content ranging from lev
 
 <!--more-->
 
-### [How symmetry can come to the aid of machine learning](https://news.mit.edu/2024/how-symmetry-can-aid-machine-learning-0205)
+## [How symmetry can come to the aid of machine learning](https://news.mit.edu/2024/how-symmetry-can-aid-machine-learning-0205)
 - "Weyl’s law, conceived about a century before the boom in machine learning, had traditionally been applied to very different physical situations — such as those concerning the vibrations of a string or the spectrum of electromagnetic (black-body) radiation given off by a heated object."
 - "Exploit a dataset’s intrinsic symmetries in order to reduce the complexity of machine learning tasks." Eg. Given an image detection algorithm, we don't need to fuss over an object's position in the image, "whether it’s exactly in the center or off to the side — and whether it is pointed right-side up, upside down, or oriented at a random angle. An algorithm equipped with the latter capability can take advantage of the symmetries of translation and rotations."
 - Pros: Helpful when there is low training data.
 
-### [A new way to let AI chatbots converse all day without crashing](https://news.mit.edu/2024/new-way-let-ai-chatbots-converse-all-day-without-crashing-0213)
+## [A new way to let AI chatbots converse all day without crashing](https://news.mit.edu/2024/new-way-let-ai-chatbots-converse-all-day-without-crashing-0213)
 - "Researchers developed a simple yet effective solution for a puzzling problem that can worsen the performance of large language models such as ChatGPT."
 - "Their method involves a tweak to the key-value cache (which is like a conversation memory) at the core of many large language models. In some methods, when this cache needs to hold more information than it has capacity for, the first pieces of data are bumped out. This can cause the model to fail. By ensuring that these first few data points remain in memory, the researchers’ method allows a chatbot to keep chatting no matter how long the conversation goes". Keeping an "attention sink" on the first token ensures stable memory usage and performance, even when processing texts up to 4 million tokens in length.
 - Limitations: "The model cannot remember words that aren’t stored in the cache. In the future, the researchers plan to target this limitation by investigating methods to retrieve tokens that have been evicted or enable the model to memorize previous conversations."

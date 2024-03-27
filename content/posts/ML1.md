@@ -10,14 +10,14 @@ Thank you, [Andrew Ng](https://www.andrewng.org/), for the inspiring [lecture](h
 
 <!--more-->
 
-### Resources:
+## Resources:
 
 - [Program Information](https://learn.stanford.edu/Social-AI-YouTube.html?utm_source=YouTube&utm_medium=Social&utm_campaign=cs229_lec1_2018),
 - [Syllabus](http://cs229.stanford.edu/syllabus-autumn2018.html),
 - [Enroll Online](https://www.coursera.org/specializations/machine-learning-introduction?action=enroll),
 - For comprehensive lecture notes on CS229, you can find them [here](https://github.com/yiyangjessieyu/Machine-Learning/blob/main/lectures/main_notes.pdf).
 
-### Key Takeaways
+## Key Takeaways
 
 One highlight was the example at [45:50](https://youtu.be/jGwO_UgTS7I?t=2750), which effectively illustrated the challenge of dimensionality in multi-dimensional problems and introduced the motivation behind Support Vector Machines (SVM) as a solution.
 

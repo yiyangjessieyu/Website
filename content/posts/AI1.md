@@ -19,7 +19,7 @@ In this [talk](https://www.youtube.com/watch?v=5p248yoa3oE), we'll explore sever
 
 <!--more-->
 
-### Key Takeaways
+## Key Takeaways
 
 During the discussion, the focus was primarily on what Andrew considers to be the two most crucial tools in AI:
 
@@ -32,13 +32,13 @@ One intriguing concept introduced was the idea of building defensible businesses
 
 Andrew expressed the hope that the continued growth of AI can lead to providing deep and lasting value.
 
-### Why isn't AI widely adopted yet?
+## Why isn't AI widely adopted yet?
 
 A noteworthy observation was made regarding problem distribution, with the majority of AI applicability clustering on the left end of the graph, and higher effort for customization on the right (long tail) end. This situation reminds me of the 80:20 rule.
 
 ![Alt text](/posts/image-1.png)
 
-### Design Thinking
+## Design Thinking
 
 Although encouraged, Andrew found this process very slow as he is not often the subject matter expert during the ideation phase. He would only engage in startups when there's a concrete idea.
 
@@ -47,7 +47,7 @@ Concrete ideas:
 - Give clear direction to execute.
 - Are often from a subject matter expert who's deeply thought about a problem - the outcome from their design thinking process.
 
-### Risk and Social Impact
+## Risk and Social Impact
 
 AI disruption to jobs. Current wage of automation exposes higher-wage jobs to AI automation.
 

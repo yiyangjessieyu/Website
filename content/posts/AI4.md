@@ -11,17 +11,17 @@ In this article, we explore the contents of the research paper titled ["Power an
 <!--more-->
 
 
-### Approach to Mitigating the Harms of Bias That Appears Most Viable
+## Approach to Mitigating the Harms of Bias That Appears Most Viable
 
 The article highlights a social approach aimed at increasing the diversity of the AI workforce. Specifically, it suggests that "more diverse academic disciplines should be involved, including philosophers, social scientists, legal theorists, and political scientists who can bring their long-standing expertise."
 
 Additionally, there is a need to build a more inclusive workplace culture so that women and minorities feel supported and included in the conversation.	
 
-### Limitations to the Social Approach
+## Limitations to the Social Approach
 
 The social approach does not effectively address bias introduced by the data consumed by AI models. These models learn from large datasets that may contain biases from the past or the internet, including racism, misogyny, and sexism. Despite our improved understanding, learning from biased historical data can lead AI to make biased decisions, hindering progress toward a fairer society. The social approach primarily focuses on addressing bias within the minds of those working on AI products but does not directly tackle the bias inherent in the AI's training data.
 
-### Approach to Mitigating the Harms of Bias That Appears Least Viable
+## Approach to Mitigating the Harms of Bias That Appears Least Viable
 
 The article presents a technical approach as a solution, suggesting that "AI can be the solution to human bias and can help detect and eliminate it." This involves "improving data quality and reliability and designing better algorithms." However, hastily resorting to technical solutions may not be the best approach, as it may overlook the complexity of bias in AI and pushes away the opportunity to treat this as a wicked problem. Bias has deep historical roots and resurfaces through AI systems, making it a complex problem that cannot be fully addressed with technical fixes alone*.
 

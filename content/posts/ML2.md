@@ -10,7 +10,7 @@ Thank you, [Andrew Ng](https://www.andrewng.org/), for the [lecture](https://www
 <!--more-->
 
 
-### Resources
+## Resources
 - [Program info](https://learn.stanford.edu/Social-AI-YouTube.html?utm_source=YouTube&utm_medium=Social&utm_campaign=cs229_lec1_2018),
 - [Syllabus](http://cs229.stanford.edu/syllabus-autumn2018.html),
 - [Enrol online](https://www.coursera.org/specializations/machine-learning-introduction?action=enroll).

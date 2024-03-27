@@ -12,7 +12,7 @@ This post revolves around the topics discussed in the research article: [To Each
 
 
 
-### Claim: There is no need to create multiple ethics as it's inefficient in ethical inquiry.
+## Claim: There is no need to create multiple ethics as it's inefficient in ethical inquiry.
 
 The claim is supported by the argument that "the conceptual boundaries between the subfields are not well-defined nor respected." New ethics often cover topics that overlap with each other, resulting in a duplication of effort. Therefore, proliferating the creation of more ethics often doesn't provide additional value, and there is no need to do it. In fact, there can be a risk for people to "ignore more fundamental ethical insights and truths" when they are creating more niche ethics.
 
@@ -28,5 +28,5 @@ The author's claim can be validated by contrasting the field of medical ethics w
 
 *Weaker wheels because each new niche topic is less established and makes it harder to find new valuable insights.
 
-### Appeals to Autonomy, Harm vs. Good, Duties, Justice: Points Made by the Authors
+## Appeals to Autonomy, Harm vs. Good, Duties, Justice: Points Made by the Authors
 The authors noted how there is an appeal to autonomy with principles related to autonomous technology design, where they strive for flexibility and aim to avoid "circumstances in which technological systems impose a permanent, rigid, and irreversible imprint" on individuals, businesses, groups, society, and the environment that technology can affect.
