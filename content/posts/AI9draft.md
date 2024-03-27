@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning Tutorials"
 date: 2024-03-13T16:01:26+12:00
-draft: true
+draft: false
 tags: ["learning"]
 categories: ["tech"]
 ---
