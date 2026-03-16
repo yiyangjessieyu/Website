@@ -6,7 +6,5 @@ author = "Hugo Authors"
 enableComments = false
 +++
 
-Welcome to my blog. 
-
-Currently under construction :) Repo for my messy notes and reflection. Aiming for a place where I can collate all my favourite learnings to share with others or my future self. 
+Repo for my messy notes and reminders for my future self. 
   
