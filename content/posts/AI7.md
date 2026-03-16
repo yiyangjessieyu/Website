@@ -2,7 +2,7 @@
 ---
 title: "March '24 News"
 date: 2024-03-13T16:01:26+12:00
-draft: false
+draft: true
 tags: ["ai"]
 categories: ["tech"]
 ---
@@ -14,7 +14,7 @@ News from March 2024 that caught my attention.
 ## Apple's MM1 Latest Research
 [MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training](https://arxiv.org/pdf/2403.09611.pdf).
 
-A comphrehendsive study on building high-performance Multimodal Large Language Models (MLLMs) by exploring various architectural design choices and data choices, and drawing conclusions about their impact on model efficacy. Their work identify key design principles through comprehensive ablations, focusing on the importance of image encoder choices, the mix of pre-training data (image-caption, interleaved image-text, and text-only data), and the effects of these on achieving state-of-the-art results in few-shot settings across multiple benchmarks. 
+A comphrehendsive study on building high-performance Multimodal Large Language Models (MLLMs) by exploring various architectural design choices and data choices, and drawing conclusions about their impact on model efficacy. Their results identify key design principles through comprehensive ablations, focusing on the importance of image encoder choices, the mix of pre-training data (image-caption, interleaved image-text, and text-only data), and the effects of these on achieving state-of-the-art results in few-shot settings across multiple benchmarks. 
 
 
 ![alt text](image-8.png)

@@ -1,3 +1,6 @@
 # Local Netlify folder
 .netlify
 public
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
